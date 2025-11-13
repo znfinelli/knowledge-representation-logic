@@ -1,7 +1,7 @@
 # Symbolic AI: Logic & Knowledge Representation
 
 **Author:** Zoë Finelli  
-**Course:** A.B. Cognitive Science - CSCI1300  
+**Course:** A.B. Cognitive Science - ARTI4500
 **Date:** 19 April 2025
 
 ---
